@@ -13,7 +13,7 @@ def binary_search(arr, target):
 
     return -1  # Return -1 if the target is not found
 
-# Example usage
+
 my_list = [1, 3, 5, 7, 9]
 target_value = 5
 result = binary_search(my_list, target_value)
